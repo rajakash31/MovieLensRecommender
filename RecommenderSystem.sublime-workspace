@@ -1,0 +1,596 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inval",
+				"invalid_ind	statement"
+			],
+			[
+				"Checkpoin",
+				"checkpoint_"
+			],
+			[
+				"chi",
+				"child2	statement"
+			],
+			[
+				"of",
+				"offspring	statement"
+			],
+			[
+				"best",
+				"best_cluster	param"
+			],
+			[
+				"cum",
+				"cum_var	statement"
+			],
+			[
+				"plo",
+				"plot_eigenvalues	function"
+			],
+			[
+				"fit",
+				"fitness"
+			],
+			[
+				"temp",
+				"temp_fit	statement"
+			],
+			[
+				"chil",
+				"child2	forflow"
+			],
+			[
+				"log",
+				"logbook	statement"
+			],
+			[
+				"data_",
+				"data_corr_mat"
+			],
+			[
+				"mo",
+				"movies_per_user"
+			],
+			[
+				"users",
+				"users_per_movie"
+			],
+			[
+				"trace",
+				"trace_median_user	statement"
+			],
+			[
+				"trac",
+				"trace_avg_user	statement"
+			],
+			[
+				"tra",
+				"trace_movies_per_user	statement"
+			],
+			[
+				"tr",
+				"trace_median_movie	statement"
+			],
+			[
+				"Users",
+				"Users"
+			],
+			[
+				"movi",
+				"movies_per_user	statement"
+			],
+			[
+				"mov",
+				"movies_per_user	statement"
+			],
+			[
+				"userS",
+				"users_per_movie	statement"
+			],
+			[
+				"ratin",
+				"ratings_matrix	param"
+			],
+			[
+				"user",
+				"users_per_movie	statement"
+			],
+			[
+				"get",
+				"get_principal_components	function"
+			],
+			[
+				"corrc",
+				"corrcoef	function"
+			],
+			[
+				"en",
+				"energy_threshold	param"
+			],
+			[
+				"ratings",
+				"ratings_matrix	param"
+			],
+			[
+				"r",
+				"readlines	function"
+			],
+			[
+				"di",
+				"dict_table	statement"
+			],
+			[
+				"rows",
+				"rows"
+			],
+			[
+				"table",
+				"table_no"
+			],
+			[
+				"tab",
+				"table_no"
+			],
+			[
+				"match",
+				"match_list	statement"
+			],
+			[
+				"s",
+				"shape"
+			],
+			[
+				"da",
+				"data_pca	statement"
+			],
+			[
+				"user_",
+				"user_list	statement"
+			],
+			[
+				"procee",
+				"processed_entries	statement"
+			],
+			[
+				"proce",
+				"process_user_list	function"
+			],
+			[
+				"save",
+				"save-only"
+			],
+			[
+				"writ",
+				"writerows	function"
+			],
+			[
+				"Dict",
+				"DictWriter	class"
+			],
+			[
+				"check",
+				"check_user_info	function"
+			],
+			[
+				"data",
+				"data_left"
+			],
+			[
+				"read",
+				"readline	function"
+			],
+			[
+				"is",
+				"isnan	function"
+			],
+			[
+				"F",
+				"FailURL"
+			],
+			[
+				"pass",
+				"password	statement"
+			],
+			[
+				"re",
+				"renderContents"
+			],
+			[
+				"login",
+				"logintype"
+			],
+			[
+				"ascii",
+				"ascii_letters	statement"
+			],
+			[
+				"lo",
+				"load-save"
+			],
+			[
+				"sa",
+				"load-save"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Anaconda: Show error list"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"instA",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Github: Repository"
+			],
+			[
+				"github",
+				"Github: Open File"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 400.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ion_check.py",
+			"2+3",
+			"exit()",
+			"exit",
+			"view.settings().get('font_face')",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/genetic.py",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/evolution_50.txt",
+		"/C/Users/Kumar Siddharth/.plotly/.credentials",
+		"/C/Anaconda3/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/data_analysis.py",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/auxiliary.py",
+		"/E/Documents/user_details_march.csv",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/temp.py",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/pca_svd (2).py",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/pca_svd (3).py",
+		"/C/Users/Kumar Siddharth/Desktop/Recommendation.py",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/Recommender.py",
+		"/E/table.txt",
+		"/E/test.csv",
+		"/E/list_match.py",
+		"/D/Utilities/ion_check.py",
+		"/D/Program Files/ffmpeg-20140501-git-feaa31d-win64-static/doc/examples/demuxing_decoding.c",
+		"/E/Downloads/zzz.c",
+		"/E/Downloads/xyz.c",
+		"/E/user_details_march.csv",
+		"/E/Documents/user_complete_sorted.csv",
+		"/E/Downloads/FIN_LEX.CPP",
+		"/E/Downloads/Midterm Viva Schedule.pdf",
+		"/E/scsi.txt",
+		"/D/takeout-20150303T204436Z/Takeout/Profile/Shrishti Prasad.json",
+		"/D/takeout-20150303T204436Z/Takeout/Hangouts/Hangouts.json",
+		"/D/takeout-20150303T204436Z/Takeout/Google+ Circles/mit.vcf",
+		"/D/takeout-20150303T204436Z/Takeout/Contacts/Starred in Android.vcf",
+		"/D/takeout-20150303T204436Z/Takeout/Contacts/All Contacts.vcf",
+		"/E/Downloads/BackupBoxLogEF6UwZqQ2fq3oquc.csv",
+		"/E/Downloads/BackupBoxLogqT5wj6DYzCCy6ETdCXWS57aK.csv",
+		"/E/Downloads/BackupBoxLogqT5wj6DYzCCy6ETdCXWS57aK (1).csv",
+		"/D/Documents/MLiA/kNN.py",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/Reading_dataset.py",
+		"/D/Documents/College/8th Sem/GA_KM_Recommender_System/pca_svd.py",
+		"/D/Misc/Log/Shrishti Prasad/browser_history_report.html",
+		"/D/Misc/Log/Shrishti Prasad/usb_report.html",
+		"/D/Misc/Log/Shrishti Prasad/Youtube_search_history.html",
+		"/E/VISA Details.txt",
+		"/E/VISA Details",
+		"/E/Documents/Login_Details.txt",
+		"/C/Users/Kumar Siddharth/AppData/Local/Temp/Temp1_takeout-20150222T215946Z.zip/Takeout/Location History/LocationHistory.json",
+		"/E/plotly_initial.py",
+		"/C/Anaconda3/Lib/site-packages/plotly/tools.py",
+		"/C/Anaconda3/Lib/site-packages/plotly/plotly/plotly.py",
+		"/C/Anaconda3/Lib/site-packages/plotly/plotly/__init__.py",
+		"/C/Anaconda3/Lib/site-packages/simplejson/scanner.py",
+		"/C/Anaconda3/Lib/site-packages/simplejson/_speedups.pyd",
+		"/E/plotly_set_credentials.py",
+		"/D/Documents/College/8th Sem/MovieLens/ml-100k/u.data",
+		"/G/pca_svd.py",
+		"/G/Reading_dataset.py",
+		"/C/Users/Kumar Siddharth/Desktop/Reading_and_parsing.py",
+		"/D/Documents/College/8th Sem/MovieLens/ml-100k/u.user",
+		"/E/Documents/Log-Feb.txt",
+		"/E/user_complete_sorted.csv",
+		"/E/ion_check.py",
+		"/E/Documents/Enjoyfull.txt",
+		"/E/enjoy",
+		"/E/Documents/Enjoy_2.txt",
+		"/E/user_details_complete.csv",
+		"/E/enjoy2.txt",
+		"/E/user_details_new.csv",
+		"/E/test.py",
+		"/E/Documents/User_data.dat",
+		"/E/user_details.csv",
+		"/C/Users/Kumar Siddharth/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Kumar Siddharth/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Kumar Siddharth/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Anaconda3/Lib/site-packages/twill-1.8.0-py3.4.egg/twill/parse.py",
+		"/C/Anaconda3/Lib/string.py",
+		"/C/Anaconda3/Lib/site-packages/twill-1.8.0-py3.4.egg/twill/other_packages/pyparsing.py",
+		"/C/Anaconda3/Lib/site-packages/pandas/core/strings.py",
+		"/C/Anaconda3/Lib/site-packages/twill-1.8.0-py3.4.egg/twill/other_packages/pyparsing.py.bak",
+		"/D/Documents/College/6th Sem/LP Lab Summer/cparse/lexemes",
+		"/C/Users/Kumar Siddharth/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Kumar Siddharth/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Kumar Siddharth/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Kumar Siddharth/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/E/Downloads/DefUse.h",
+		"/D/Documents/College/8th Sem/MovieLens/ml-100k-README.txt",
+		"/E/Movies/Confessions/Confessions.idx",
+		"/E/Movies/Confessions/Confessions_1.idx",
+		"/E/Movies/Confessions/Confessions.sub",
+		"/E/Movies/Confessions/subs/Confessions.2010.Bluray.720p.x264.AC3-LooKMaNe.idx",
+		"/C/Users/Kumar Siddharth/AppData/Local/Temp/Temp1_ml-100k.zip/ml-100k/README",
+		"/E/Movies/Nightcrawler.srt",
+		"/E/Movies/Nightcrawler.mkv",
+		"/C/Python34/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+		"/C/Users/Kumar Siddharth/Documents/MP3Diags.ini",
+		"/E/Movies/Thank You For Smoking/tyf smoking.srt",
+		"/E/Movies/12_Years_a_Slave_(2013).srt",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week8/Week8/Web.config",
+		"/H/Data/Games/Proper Games/Rise of Nations - Gold Edition/rules.xml",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week8/Week8/SalesGrid.aspx",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week8/Week8/SalesGrid.aspx.cs",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week2/Lab2/Q3/Form1.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/week3/w3p3/w3p3/Form1.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/week3/week3p2/week3p2/Form1.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/week3/week3p2/week3p2/Form1.Designer.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/week3/w3p4/w3p4/Program.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/week3/w3p3/w3p3/Program.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/week3/w3p1/w3p1/Program.cs",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week2/Lab2/Q2/Form1.cs",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week2/Lab2/Q1/Program.cs",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week1/left.html",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week1/bottomright.html",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week1/frames.html",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week1/topright.html",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week1/L1Q2.html",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week1/form.html",
+		"/D/Documents/College/7th Sem/AIT Lab Rep/Week1/L1Q1.html",
+		"/D/Documents/College/7th Sem/AIT Lab/CalendarTest.aspx",
+		"/D/Documents/College/7th Sem/AIT Lab/CalendarTest.aspx.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/MultiViewGreetingCardMaker.aspx.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/MultiViewGreetingCardMaker.aspx",
+		"/D/Documents/College/7th Sem/AIT Lab/WizardGreetingCardMaker.aspx",
+		"/D/Documents/College/7th Sem/AIT Lab/WizardGreetingCardMaker.aspx.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/MainAds.xml",
+		"/D/Documents/College/7th Sem/AIT Lab/AdRotatorTest.aspx.cs",
+		"/D/Documents/College/7th Sem/AIT Lab/AdRotatorTest.aspx",
+		"/D/Documents/College/7th Sem/AIT/Slides/AdRotatorTest.aspx.cs",
+		"/D/Documents/College/7th Sem/AIT/Slides/AdRotatorTest.aspx",
+		"/D/Documents/College/7th Sem/Project/MedicalShopSoftware/MedicalShopSoftware/Ads.xml",
+		"/D/Documents/College/7th Sem/AIT/Slides/MainAds.xml",
+		"/C/Users/Kumar Siddharth/AppData/Local/Temp/Temp1_RichControls.zip/RichControls/MainAds.xml",
+		"/C/Windows/System32/Drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"plot_",
+			"mutate_",
+			"values",
+			" \"",
+			"                        #",
+			"FREQ",
+			"\n	",
+			"	",
+			"user_item_matrix",
+			"user_item",
+			"user_item_matrix",
+			"data",
+			"YING",
+			"Shrishti Prasad",
+			"Kumar",
+			"Kumar Siddharth\n",
+			"object",
+			"ctrl+alt+g",
+			"ctrl+alt+f",
+			"ctrl+alt+d",
+			"anaconda",
+			"xrange",
+			"interview",
+			"side bar",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"range"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 209.0
+	},
+	"project": "RecommenderSystem.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Skuzzy\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
